@@ -1,2 +1,6 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# Google Cloud Storage credentials
+# This file contains sensitive information and should not be shared publicly.
+my-gcs-key.json
